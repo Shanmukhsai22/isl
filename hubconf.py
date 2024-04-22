@@ -192,7 +192,7 @@ import torch.optim as optim
 #     optimzer.step()
     
 #   return mynn
-def endsem()
+def endsem():
   print("endsem")
     
 
